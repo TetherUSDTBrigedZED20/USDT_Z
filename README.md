@@ -10,11 +10,11 @@ Token Information
 
 
 
-Token Name: USDT.z
+Token Name: Tether USDT Briged ZED20
 
 
 
-Symbol: USDTZ
+Symbol: USDT.z
 
 
 
@@ -22,7 +22,7 @@ Network: BNB Smart Chain (BEP-20)
 
 
 
-Total Supply: 1,000,000,000 USDTZ
+Total Supply: 950,000,000 USDT.z
 
 
 
@@ -213,5 +213,5 @@ Website: http://zeddev-usdtz.com/
 
 
 
-Disclaimer: This document is for informational purposes only. It is not financial advice. Cryptocurrency investments are inherently risky. Please conduct your own research (DYOR) and understand the risks involved before participating. The contract code is publicly available; users should understand its functions before interaction. Future developments are based on current plans and are subject to change based on technical, regulatory, and market conditions.
+
   
