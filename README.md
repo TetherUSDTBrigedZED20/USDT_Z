@@ -10,7 +10,7 @@ Token Information
 
 
 
-Token Name: Tether USDT Briged ZED20
+Token Name: Tether USDT Bridged ZED20
 
 
 
