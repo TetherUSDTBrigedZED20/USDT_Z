@@ -201,11 +201,7 @@ Mission: To deliver a scalable, secure, and innovative environment that supports
 Approach: The team prioritizes rigorous code testing, community feedback, and adaptive development to ensure the project's long-term viability and relevance.
 
 Contact & Official Links:
-
-
-
-
-
+https://x.com/ZED20USDTz
 Website: http://zeddev-usdtz.com/
 
 
